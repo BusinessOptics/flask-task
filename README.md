@@ -17,6 +17,8 @@ Create a simple flask application (http://flask.pocoo.org/) with a page that dis
 ### (2)
 Change the layout and style your page using CSS. The layout should look something like this.
 
+![Mockup](Mockup.png)
+
 The mockup is just a suggestion, you can choose your own colours etc. Try to make it look clean and attractive. We are not looking for ground breaking design, just a demonstration of knowledge. Don't worry about cross browser compatibility, assume a reasonably modern browser. Bonus points for making the layout responsive and work on mobile devices.
 
 ### (3)
